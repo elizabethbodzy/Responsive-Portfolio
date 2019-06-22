@@ -292,6 +292,9 @@ a:link {
     img {
         margin-left: 50px;
     }
+    header {
+      position: static;
+    }
   }
 
 
